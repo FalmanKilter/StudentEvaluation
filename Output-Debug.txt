@@ -1,0 +1,19 @@
+﻿'testCpp.exe' (Win32): Loaded 'C:\Users\Alexander\Desktop\CppProjects\CppLearning\testCpp\Debug\testCpp.exe'. Symbols loaded.
+'testCpp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'testCpp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'testCpp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'testCpp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'testCpp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'testCpp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x3e88 has exited with code 0 (0x0).
+'testCpp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'testCpp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'testCpp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+'testCpp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. 
+'testCpp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. 
+'testCpp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. 
+'testCpp.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. 
+The thread 0x5594 has exited with code 0 (0x0).
+The thread 0x501c has exited with code 0 (0x0).
+The thread 0x2388 has exited with code 0 (0x0).
+The program '[21724] testCpp.exe' has exited with code 0 (0x0).
