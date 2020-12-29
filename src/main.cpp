@@ -1,3 +1,10 @@
+/*The program takes in information about students in class:
+* their names, midterm, finals and homework grades,
+* calculates their final grade:
+* final grade = 0.4 * midterm grade + 0.4 * final grade + 0.2 * average homework grade
+* returns lists of students who passed and who failed the course given a passing grade.
+*/
+
 #include <iostream>
 #include <string>
 #include <iomanip>
